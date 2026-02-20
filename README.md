@@ -1,3 +1,6 @@
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Spatial Econometrics](https://img.shields.io/badge/Spatial%20Econometrics-8A2BE2?style=for-the-badge)
+
 # spatial-econometrics-international-migration
 Analyse spatiale des migrations internationales : description des données, calcul des taux d’émigration/immigration, cartographie, autocorrélation spatiale, modèles OLS et modèles spatiaux, puis estimation d’un modèle gravitaire des flux bilatéraux entre pays.
 # Projet d’Économétrie Spatiale : Analyse des Flux Migratoires Internationaux  
