@@ -1,0 +1,34 @@
+# ============================================================
+#  Requirements R pour le projet d’économétrie spatiale
+#  Auteur : Said OUZZINE
+# ============================================================
+
+# Manipulation de données
+dplyr==1.1.4
+tidyr==1.3.1
+tibble==3.2.1
+readr==2.1.5
+purrr==1.0.2
+stringr==1.5.1
+
+# Spatial
+sf==1.0.16
+spdep==1.3.3
+spatialreg==1.3.2
+geosphere==1.5.18
+rgeos==0.6.4
+
+# Visualisation
+ggplot2==3.5.0
+
+# Modèles et tests
+lmtest==0.9.40
+Matrix==1.6.5
+
+# Imputation
+missForest==1.5
+randomForest==4.7.1.1
+
+# R Markdown (pour générer le rapport PDF)
+rmarkdown==2.27
+knitr==1.45
